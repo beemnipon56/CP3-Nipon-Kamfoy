@@ -1,0 +1,6 @@
+a = int(input("Enter first nember : "))
+b = int(input("Enter second nember : "))
+print(f"{a} + {b} = {a+b}")
+print(f"{a} - {b} = {a-b}")
+print(f"{a} * {b} = {a*b}")
+print(f"{a} / {b} = {a/b}")
